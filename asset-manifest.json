@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/exchange-rate-walkthrough-5/static/css/main.f855e6bc.css",
+    "main.js": "/exchange-rate-walkthrough-5/static/js/main.d56b2da6.js",
+    "static/js/743.1e490e19.chunk.js": "/exchange-rate-walkthrough-5/static/js/743.1e490e19.chunk.js",
+    "static/media/logo.svg": "/exchange-rate-walkthrough-5/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/exchange-rate-walkthrough-5/index.html",
+    "main.f855e6bc.css.map": "/exchange-rate-walkthrough-5/static/css/main.f855e6bc.css.map",
+    "main.d56b2da6.js.map": "/exchange-rate-walkthrough-5/static/js/main.d56b2da6.js.map",
+    "743.1e490e19.chunk.js.map": "/exchange-rate-walkthrough-5/static/js/743.1e490e19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d56b2da6.js"
+  ]
+}
